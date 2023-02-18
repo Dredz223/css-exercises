@@ -1,0 +1,15 @@
+.fir-element,
+.sec-element{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+    font-family: sans-serif;
+}
+
+.fir-element{
+    background-color: #000000;
+    color: #ffffff;
+}
+.sec-element{
+    background-color: #ffff00;
+}
